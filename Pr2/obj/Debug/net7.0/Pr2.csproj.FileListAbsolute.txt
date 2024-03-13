@@ -1,0 +1,15 @@
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/bin/Debug/net7.0/Pr2
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/bin/Debug/net7.0/Pr2.deps.json
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/bin/Debug/net7.0/Pr2.runtimeconfig.json
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/bin/Debug/net7.0/Pr2.dll
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/bin/Debug/net7.0/Pr2.pdb
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/obj/Debug/net7.0/Pr2.csproj.AssemblyReference.cache
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/obj/Debug/net7.0/Pr2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/obj/Debug/net7.0/Pr2.AssemblyInfoInputs.cache
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/obj/Debug/net7.0/Pr2.AssemblyInfo.cs
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/obj/Debug/net7.0/Pr2.csproj.CoreCompileInputs.cache
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/obj/Debug/net7.0/Pr2.dll
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/obj/Debug/net7.0/refint/Pr2.dll
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/obj/Debug/net7.0/Pr2.pdb
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/obj/Debug/net7.0/Pr2.genruntimeconfig.cache
+/Users/oleksandrpomazan/Desktop/С#/Pr2/Pr2/obj/Debug/net7.0/ref/Pr2.dll
